@@ -8,6 +8,5 @@ public class inherit extends fruits {
     public static void main(String args[]) {
        inherit object1 = new inherit();
        System.out.println(object1.nature+" fruits are "+object1.taste+" and Mangoo is "+object1.color+" in color");
-
     }
 }
