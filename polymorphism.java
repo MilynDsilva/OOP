@@ -39,9 +39,9 @@ public class polymorphism
 //     }
 // }
 //     public static void main(String args[]) {
-//         animal anim = new animal();
-//         dog dog = new dog();
-//         anim.sound();
+//         
+//         Animal obj = new dog();
+//         obj.sound();
        
 //     }
     
