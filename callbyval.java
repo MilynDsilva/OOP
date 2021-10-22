@@ -1,4 +1,4 @@
-class passbyref{  
+class callbyval{  
 
         
     public static void main(String args[]){  
@@ -10,7 +10,7 @@ class passbyref{
     }
     public static void modify(int s2) {
         s2=33;
-        System.out.println(s2);
+       // System.out.println(s2);
     }  
    }  
    class square1 {

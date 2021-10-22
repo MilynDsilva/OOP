@@ -14,8 +14,8 @@ public class polymorphism
    public static void main(String args[])
    {
        Overloading obj = new Overloading();
-       obj.disp('a');
-       obj.disp('a',10);
+       obj.disp('z');
+       obj.disp('z',22);
    }
 }
 // class animal {
