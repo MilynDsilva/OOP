@@ -2,7 +2,7 @@ class passbyval{
 
         
     public static void main(String args[]){  
-        square s1= new square(); //ref n costruct
+        square s1= new square(); 
         s1.l=10;
 
         modify(s1);
