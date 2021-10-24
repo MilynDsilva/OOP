@@ -22,4 +22,4 @@ public static void main(String args[]) {
     System.out.println(multiwithoutconstructor1.multi(10.2,11.3,10));
 }
 }
-//By changing number of arguments ^
+//By changing data type ^
